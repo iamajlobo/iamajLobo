@@ -5,10 +5,6 @@
 
 I am a motivated Computer Science student with a strong interest in web development and software engineering. I enjoy building clean, functional, and user-focused applications while continuously strengthening my technical foundation and problem-solving skills.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamajlobo&label=Profile%20views&color=0e75b6&style=flat" alt="iamajlobo" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
