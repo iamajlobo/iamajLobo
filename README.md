@@ -42,7 +42,7 @@ I am a motivated Computer Science student with a strong interest in web developm
 
 ## 📫 Let's Connect
 
-- GitHub: [https://github.com/iamAjLobo](https://github.com/iamAjLobo)
+- GitHub: [https://github.com/iamajLobo](https://github.com/iamajLobo)
 
 ---
 
